@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><addon>
+<id>unique_string_name</id>
+<author>
+	<title>addon_title</title>
+	<name></name>
+	<license>license_type</license>
+</author>
+<urls>
+	<homepage>http://www.addon-company-name/addon/</homepage>
+	<support></support>
+	<demo></demo>
+	<author></author>
+</urls>
+<priority>
+	<runat>numeric_value_1_to_1000</runat>
+	<css></css>
+	<sass></sass>
+	<js></js>
+</priority>
+</addon>

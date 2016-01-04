@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><addon>
+<author>
+    <version>
+    	<major>1</major>
+    	<minor>0</minor>
+    	<bugfix>0</bugfix>
+	</version>
+</author>
+<changelog><![CDATA[]]></changelog>
+<urls>
+    <version></version>
+</urls>
+<conditionals>
+	<conditional>
+		<browser></browser>
+		<css></css>
+		<js></js>
+	</conditional>
+</conditionals>
+<files>
+	<sass>
+		<file>addon-name.sass</file>
+		<file>addon-name-{{ addon_theme }}.sass</file>
+	</sass>
+	<css>
+		<file>addon-name.css</file>
+		<file>addon-name-{{ addon_theme }}.css</file>
+	</css>
+	<js>
+		<file>addon-name.js</file>
+		<file>addon-name-{{ language }}-{{ CULTURE }}.js</file>
+	</js>
+</files>
+<actions>
+    <action>
+        <name></name>
+    	<options></options>
+	</action>
+</actions>
+<runat>
+	<loc></loc>
+</runat>
+<dependencies>
+    <dependency>
+        <id></id>
+        <version>
+            <min></min>
+            <max></max>
+        </version>
+	</dependency>
+</dependencies>
+</addon>

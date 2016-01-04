@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><compile>
+<files>
+    <file>prototypes.js</file>
+	<file>init.js</file>
+	<file>debug.js</file>
+    <file>defer.js</file>
+    <file>util.js</file>
+    <file>one.js</file>
+    <file>action_and_hook.js</file>
+    <file>addon.js</file>
+</files>
+</compile>
